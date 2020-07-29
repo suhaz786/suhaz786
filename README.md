@@ -51,4 +51,4 @@
 
 <b>Bis dahin!</b>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=suhaz786.suhaz786)
+[![Visits Badge](https://badges.pufler.dev/visits/suhaz786/suhaz786)](https://badges.pufler.dev)

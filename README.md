@@ -39,9 +39,8 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=suhaz786&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=suhaz786&count_private=true)](https://github.com/suhaz786/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaz786&hide=TeX&layout=compact)
-
 
 🔭 **I’m currently working on**  Springboot and nodejs microservices
 

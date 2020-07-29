@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-suhas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhas-saheer-bb570215/)](https://www.linkedin.com/in/suhas-saheer-bb570215/)
 [![Instagram Badge](https://img.shields.io/badge/-suhaz247-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/suhaz247/)](https://instagram.com/suhaz247)
 
-<img src = "https://media.giphy.com/media/Tg6WnxtB4NibvUmHD5/giphy.gif">
+<img src = "https://media.giphy.com/media/ZBzF8zENabvDV1iCuJ/giphy.gif" width="800" height="400">
 
 * I am a Technical Architect working for Alef Education
 * I have  13+ years of diversified experience in design, build, test, and release of robust, secure, highly available and scalable, distributed SaaS systems using various architecture styles like Service Oriented, Event Driven, Domain Driven and Micro Service with strong working knowledge of OOA&D / SOLID patterns and practices

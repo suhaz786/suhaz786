@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-suhas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhas-saheer-bb570215/)](https://www.linkedin.com/in/suhas-saheer-bb570215/)
 [![Instagram Badge](https://img.shields.io/badge/-suhaz247-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/suhaz247/)](https://instagram.com/suhaz247)
+[![Visits Badge](https://badges.pufler.dev/visits/suhaz786/suhaz786)](https://badges.pufler.dev)
 
 <img src = "https://media.giphy.com/media/ZBzF8zENabvDV1iCuJ/giphy.gif" width="800" height="400">
 
@@ -11,6 +12,14 @@
 * Passionate about Responsive web designing, Accessibility, Performance optimization and possess a working knowledge of Progressive web application.
 * Experienced in decision-making areas beyond programming such as product development, hiring, etc.
 * I learn and build everything that excites me from cooking food to building large scale application
+
+🔭 **I’m currently working on**  Springboot and nodejs microservices
+
+🌱 **I’m currently learning** Dart 
+
+📫 **How to reach me**: suhas.saheer@alefeducation.com
+
+<b>Bis dahin!</b>
 
 ## ⚡ Technologies
 
@@ -43,12 +52,17 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=suhaz786&count_private=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaz786&hide=TeX&layout=compact&theme=highcontrast)
 
-🔭 **I’m currently working on**  Springboot and nodejs microservices
-
-🌱 **I’m currently learning** Dart 
-
-📫 **How to reach me**: suhas.saheer@alefeducation.com
-
-<b>Bis dahin!</b>
-
-[![Visits Badge](https://badges.pufler.dev/visits/suhaz786/suhaz786)](https://badges.pufler.dev)
+<p>
+ <a href="https://github.com/suhaz786/blockchain-demo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhaz786&repo=blockchain-demo" />
+  </a>
+  <a href="https://github.com/suhaz786/springboot-elasticsearch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhaz786&repo=springboot-elasticsearch" />
+  </a>
+  <a href="https://github.com/suhaz786/TensorFlow-RealTimeObjectDetection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhaz786&repo=TensorFlow-RealTimeObjectDetection" />
+  </a>
+  <a href="https://github.com/suhaz786/whatsapp-simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhaz786&repo=whatsapp-simulator" />
+  </a>
+</p>

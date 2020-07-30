@@ -49,20 +49,20 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=suhaz786&count_private=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhaz786&hide=TeX&layout=compact&theme=highcontrast)
+![Github Stats](https://github-readme-stats.suhaz786.vercel.app/api?username=suhaz786&count_private=true&theme=merko)
+![Top Langs](https://github-readme-stats.suhaz786.vercel.app/api/top-langs/?username=suhaz786&hide=TeX&layout=compact&theme=highcontrast)
 
 <p>
  <a href="https://github.com/suhaz786/blockchain-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhaz786&repo=blockchain-demo" />
+    <img src="https://github-readme-stats.suhaz786.vercel.app/api/pin/?username=suhaz786&repo=blockchain-demo" />
   </a>
   <a href="https://github.com/suhaz786/springboot-elasticsearch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhaz786&repo=springboot-elasticsearch" />
+    <img src="https://github-readme-stats.suhaz786.vercel.app/api/pin/?username=suhaz786&repo=springboot-elasticsearch" />
   </a>
   <a href="https://github.com/suhaz786/TensorFlow-RealTimeObjectDetection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhaz786&repo=TensorFlow-RealTimeObjectDetection" />
+    <img src="https://github-readme-stats.suhaz786.vercel.app/api/pin/?username=suhaz786&repo=TensorFlow-RealTimeObjectDetection" />
   </a>
   <a href="https://github.com/suhaz786/whatsapp-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suhaz786&repo=whatsapp-simulator" />
+    <img src="https://github-readme-stats.suhaz786.vercel.app/api/pin/?username=suhaz786&repo=whatsapp-simulator" />
   </a>
 </p>

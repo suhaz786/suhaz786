@@ -101,6 +101,6 @@
 
 🌱 **I’m currently learning** Dart 
 
-📫 **How to reach me**: suhas.saheer@alefeducation.com
+📫 **How to reach me**: suhaz786@gmail.com
 
 <b>Bis dahin!</b>

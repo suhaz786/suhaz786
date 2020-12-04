@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-suhas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhas-saheer-bb570215/)](https://www.linkedin.com/in/suhas-saheer-bb570215/)
 [![Instagram Badge](https://img.shields.io/badge/-suhaz247-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/suhaz247/)](https://instagram.com/suhaz247)
-[![Visits Badge](https://badges.pufler.dev/visits/suhas-saal/suhas-saal)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/suhaz786/suhaz786)](https://badges.pufler.dev)
 
 ![](https://github.com/suhaz786/suhaz786/blob/master/images/header_.png)
 

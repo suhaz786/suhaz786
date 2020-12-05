@@ -6,7 +6,7 @@
 
 ![](https://github.com/suhaz786/suhaz786/blob/master/images/header_.png)
 
-* I am a Technical Architect working for Arabits App
+* I am a Technical Architect working for Alef Education
 * I have  13+ years of diversified experience in design, build, test, and release of robust, secure, highly available and scalable, distributed SaaS systems using various architecture styles like Service Oriented, Event Driven, Domain Driven and Micro Service with strong working knowledge of OOA&D / SOLID patterns and practices
 * Proficient in Java, Spring, Hibernate, SpringBoot, NodeJS plus modern libraries and frameworks.
 * Passionate about Responsive web designing, Accessibility, Performance optimization and possess a working knowledge of Progressive web application.

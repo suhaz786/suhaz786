@@ -40,6 +40,8 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+![GitHub commits](https://img.shields.io/github/commit-activity/y/suhaz786/suhaz786?style=for-the-badge)
+
 ![Github Stats](https://github-readme-stats.suhaz786.vercel.app/api?username=suhaz786&count_private=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.suhaz786.vercel.app/api/top-langs/?username=suhaz786&hide=TeX&layout=compact&theme=tokyonight)
 

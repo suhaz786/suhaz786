@@ -6,8 +6,8 @@
 
 ![](https://github.com/suhaz786/suhaz786/blob/master/images/header_.png)
 
-* I am a Technical Architect working for Alef Education
-* I have  13+ years of diversified experience in design, build, test, and release of robust, secure, highly available and scalable, distributed SaaS systems using various architecture styles like Service Oriented, Event Driven, Domain Driven and Micro Service with strong working knowledge of OOA&D / SOLID patterns and practices
+* I am a Senior Technical Architect working for Saal.ai building the Big Data Platform - DigiXT
+* I have  15+ years of diversified experience in design, build, test, and release of robust, secure, highly available and scalable, distributed SaaS systems using various architecture styles like Service Oriented, Event Driven, Domain Driven and Micro Service with strong working knowledge of OOA&D / SOLID patterns and practices
 * Proficient in Java, Spring, Hibernate, SpringBoot, NodeJS plus modern libraries and frameworks.
 * Passionate about Responsive web designing, Accessibility, Performance optimization and possess a working knowledge of Progressive web application.
 * Experienced in decision-making areas beyond programming such as product development, hiring, etc.
@@ -51,3 +51,6 @@
 📫 **How to reach me**: suhaz786@gmail.com
 
 <b>Bis dahin!</b>
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+
